@@ -1,2 +1,2 @@
 # Toggle-Dark-mode-Light-Mode
-Remake Tutorial via Firship.io
+Remake Tutorial via Fireship.io
